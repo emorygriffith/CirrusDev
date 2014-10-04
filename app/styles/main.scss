@@ -3,6 +3,11 @@
 @import '../../bower_components/bitters/app/assets/stylesheets/base';
 @import '../../bower_components/neat/app/assets/stylesheets/neat';
 
+
+//Partials
+@import 'login';
+#emory{
+
 // Custom Styles
 body {
  background: #fafafa;
@@ -86,6 +91,9 @@ $device-screen-image: 'http://wallpaper-download.net/wallpapers/nature-wallpaper
 .device-text {
  color: $device-text-color;
  padding: 2em;
+   h4{
+     margin-left:220px;
+   }
 
  @include media($large-screen) {
    max-width: 50%;
@@ -148,4 +156,5 @@ $device-screen-image: 'http://wallpaper-download.net/wallpapers/nature-wallpaper
      border-radius: .2em;
    }
  }
+}
 }
