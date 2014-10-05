@@ -4,10 +4,9 @@
 @import '../../bower_components/neat/app/assets/stylesheets/neat';
 
 #emorylogin{
-/* article, aside, details, figcaption, figure,
-footer, header, hgroup, menu, nav, section {
-  display: block;
-} */
+
+background-color: HSLA(210, 100%, 82%, 1);
+
 
 body {
   line-height: 1;
@@ -42,6 +41,7 @@ body {
 .container2 {
   margin: 80px auto;
   width: 640px;
+  background-color:HSLA(210, 100%, 82%, 1);
 }
 
 .login {
