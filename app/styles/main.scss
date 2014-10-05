@@ -7,6 +7,8 @@
 //Partials
 @import 'login';
 #emory{
+  height:100%;
+  width:100%;
 
 // Custom Styles
 body {
@@ -36,6 +38,7 @@ $device-screen-image: 'http://wallpaper-download.net/wallpapers/nature-wallpaper
 
 .container{
  margin-top:75px;
+
 }
 
 .device-text{
