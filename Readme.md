@@ -1,3 +1,1 @@
-## Yo, I'm a Readme
-
-You should probably update me so people looking at your code have an idea what it is being used for :)
+## This is a static page that I put together for a hackathon project. It's the web version of a mobile app that allows a user to share cloud photos with friends.
